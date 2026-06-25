@@ -1,7 +1,7 @@
 # 🎓 华东理工大学教务系统一键评教助手 (ECUST Auto Evaluation)
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/peppa486/ecust-auto-evaluation?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
   <img src="https://img.shields.io/github/stars/peppa486/ecust-auto-evaluation?style=flat-square" alt="Stars">
   <img src="https://img.shields.io/github/forks/peppa486/ecust-auto-evaluation?style=flat-square" alt="Forks">
   <img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=flat-square" alt="Language">
